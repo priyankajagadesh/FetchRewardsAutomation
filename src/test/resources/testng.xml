@@ -3,7 +3,7 @@
 <suite name="com.fetchrewards.test">
     <test name="login">
         <parameter name="user" value="priyakumar2994@gmail.com" />
-        <parameter name="pass" value="Sweetypriya@1" />
+        <parameter name="pass" value="Sweetypriya#1" />
         <classes>
             <class name="com.fetchrewards.test.TestScript" />
         </classes>

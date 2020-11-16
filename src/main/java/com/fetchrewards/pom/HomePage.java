@@ -36,6 +36,7 @@ public class HomePage {
 
     public void clickDeny(){
         waitUtility.checkIfAvailable(driver,denyBtn);
+	//SSS
         denyBtn.click();
     }
 

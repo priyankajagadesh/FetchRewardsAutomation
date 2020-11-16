@@ -21,7 +21,7 @@ public class WaitUtility {
 
     public void print(int j){
 
-        System.out.println("Priyanka");
+        System.out.println("Prasanna");
     }
 
     public double print(double j){

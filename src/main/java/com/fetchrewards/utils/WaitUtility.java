@@ -14,5 +14,22 @@ public class WaitUtility {
         wait = new WebDriverWait(driver, 10);
         wait.until(ExpectedConditions.visibilityOf(androidElement));
 
+        //aaaaaa
+
     }
+
+
+    public void print(int j){
+
+        System.out.println("Priyanka");
+    }
+
+    public double print(double j){
+
+
+        return j;
+
+    }
+
+
 }

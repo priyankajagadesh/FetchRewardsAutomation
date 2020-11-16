@@ -25,6 +25,7 @@ public class SearchPage {
 
     @AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView")
     AndroidElement panel;
+//sdsdsd
 
     @AndroidFindBy(xpath = "//android.view.ViewGroup[@content-desc=\"Pages\"]")
     AndroidElement pages;

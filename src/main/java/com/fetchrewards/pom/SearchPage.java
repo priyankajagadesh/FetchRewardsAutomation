@@ -42,6 +42,7 @@ public class SearchPage {
 
     public void search() {
 
+        //sssssss
         waitUtility.checkIfAvailable(driver,searchbox);
         searchbox.sendKeys("Fetch Rewards");
     }
